@@ -58,5 +58,5 @@ Dataset Information
 
 - User rating activity varies over time.
 
-Popularity and quality (average rating) are different metrics.
-movie data set
+- Popularity and quality (average rating) are different metrics.
+  movie data set
